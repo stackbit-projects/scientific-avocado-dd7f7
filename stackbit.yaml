@@ -129,7 +129,7 @@ models:
     labelField: title
   recipes:
     type: page
-    label: Advanced Page
+    label: recipes
     hideContent: true
     layout: advanced
     exclude:
