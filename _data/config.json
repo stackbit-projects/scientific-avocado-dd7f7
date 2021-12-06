@@ -21,7 +21,7 @@
             "title": "All Recipes",
             "url": "#",
             "style": "primary",
-            "arrow": true
+            "arrow": false
         },
         {
             "title": "About",
