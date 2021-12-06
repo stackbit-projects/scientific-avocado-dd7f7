@@ -127,7 +127,7 @@ models:
           - stackbit_page_meta
         label: Seo
     labelField: title
-  advanced:
+  recipes:
     type: page
     label: Advanced Page
     hideContent: true
